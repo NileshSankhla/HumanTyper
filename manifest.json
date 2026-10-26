@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Human Speed Typer Pro",
+  "version": "2.0",
+  "description": "Advanced human-like auto-typer with WPM control, mistakes, and pause features.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
